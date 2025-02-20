@@ -45,9 +45,9 @@ Este projeto utiliza um dicionário em memória para gerenciar senhas associadas
    
    Pressione Enter para continuar...
 
-=== Gerenciador de Senhas ===
-Escolha uma opção (1-6): 2
-Digite o nome do serviço para visualizar a senha: gmail
-A senha para 'gmail' é: minhaSenha123
+   === Gerenciador de Senhas ===
+   Escolha uma opção (1-6): 2
+   Digite o nome do serviço para visualizar a senha: gmail
+   A senha para 'gmail' é: minhaSenha123
 
-Pressione Enter para continuar...
+   Pressione Enter para continuar...
